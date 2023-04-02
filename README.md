@@ -12,7 +12,9 @@ El script "main.py" se corre usando
 y exportar los mapas como __html__ y los graficos __png__.  
 El "__main__" toma los archivos de la carpeta mapas y los
 muestra en el navegador.
+
 ---
+
 ## Librerias
 
 * streamlit
@@ -23,7 +25,9 @@ muestra en el navegador.
 * earthengine-api
 * scipy
 * PIL
+
 ---
+
 ## Autenticación para earth engine  
 
 
