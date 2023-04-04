@@ -1,0 +1,8 @@
+pip install folium
+pip install streamlit
+pip install streamlit-folium
+pip install spicy
+pip install numpy
+pip install IPython
+pip install matplotlib
+pip install earthengine-api --upgrade
