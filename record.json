@@ -1,0 +1,41 @@
+{
+  "sar": {
+  },
+  "users": {
+    "proyecto-0002@ee-tucho.iam.gserviceaccount.com": "key.json"
+  },
+  "config": {
+    "50y117": [
+      "COPERNICUS/S1_GRD_FLOAT",
+      "2020-08-30",
+      "2021-06-30",
+      "VV",
+      "DESCENDING",
+      20
+    ],
+    "dos": [
+      "COPERNICUS/S1_GRD_FLOAT",
+      "2023-04-29",
+      "2023-04-29",
+      "VV",
+      "DESCENDING",
+      10
+    ],
+    "con2": [
+      "COPERNICUS/S1_GRD_FLOAT",
+      "2023-04-29",
+      "2023-04-29",
+      "VV",
+      "DESCENDING",
+      10
+    ],
+    "tres": [
+      "COPERNICUS/S1_GRD_FLOAT",
+      "2023-04-29",
+      "2023-04-29",
+      "VV",
+      "DESCENDING",
+      10
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ee-tucho",
+  "private_key_id": "06e410aee26c5b18f75a53fef08cd628187a0e2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCDKKRl7sHp442\nYWrZ5TBghaptAmq5K3M/cvdsiUSTN+Wvd7bDu0AqUqOhsAgJCkk4y9k/LzE/LbTa\nFvoTU8KEcc5vhn/i+jXZw6CdxjlRDzgQWdfL5WWyAGvjSa+iPN3md6KILfgsMAD4\nm10ykj7qrAq0spN7SZyxxJmzCx07s3gRjTVvTKiMH03Yza3++2let6P/xk2xgzyx\nagmDrHCmwAwDv9IfLO3xN2e9M6j78xxCgohqXxqgNlcg3UBxm/wRpBH5poAhsUxT\non02xVp3JCCQuipZvVcjgWmKngCrsqSAMEYfbZt6jeyf4AD+7BLenHW24WANaESQ\nuvhRdntdAgMBAAECggEAC3qNXFDuLJ3+BNv+4txSoAcQJYokz4bRNrHhjn9ROecu\n1FIf0tS/DzHbwZsE4qoD2lL+qyTqxBq7TcJZsS59fXGw/Tpm0sGr0VGn7OVWqyOc\nFKWH5SUQ/rZVK3kGpXF1y+YMTINxoIWHbS1dljn99EpQiM9ed4bLeN2RHPz9kfQp\nsYBDjLTjuFUtl7CyIdoLAXZzQILqBC0DZ/Y7m8U9McZBH2/6FncisIbCNbtyLkXc\nFzSduXqYoi7Thbd8D9vQO4kZFH6TvhIxNGNFCli4qqyKYxxLbHpmhJRwMl1mBd4V\nqGW6sv/+vlXTR0HEC+zkFofWQsK9b3NzCXmF3XtzGQKBgQDqRSb8MaMK+W2G5zGi\nF9Jf6kKphk2X0SnmO+slIWW1nQq3kKwzmQ3HdTZTQ1DW8g4JL+ev+yc2+mMPv74c\nQfrd/bah33j6T6LZdBixIW6+O8OkvJVEoXljxr6KPxIB+aD9b58c8xIpGJv0heD+\ndRL54/2gFes66Fw87zHWN+qu1QKBgQDUDGw6uoWMhXpL4VzMBxwJmmWUAfiEzoBK\n9D12rvxUDlFPhGuw/AMK1pMARSWjBiUJwenPoQltKb+vnMAhzXoeNBCHF72cfmDX\ngTnVfFGTArBdecvyQ87v+rgXH7n+19VtYnUfawLlC+n4sMAbvA4W66slsHrHguxE\nlgZx0eCuaQKBgQClEajQlqENgIb+QTUlw6dGUig6jxlpWcYuJhYgCZJDD66XfWb4\nzGV7H0nyDUKO0eu16X1U8KDHClJ2rGJmQs9jT/w5vt7dcPOMSVOEq8v+WtoV35NF\n0olYFpf3jU1A+wXGzbnNijBHqMFq4FKSuSdv0IfLHuaqkUM85EW3bZr9KQKBgE5l\nwWX9K/8GIm8HhS2Ru1X5lXChQeaoClqr7kWA8J2LJZjGlqI6qk1Jg9PnvMCHNw5i\neTVgjoGjm9ErnQViWLHuAeZQarP/LYK/rkg1zFsT9Wy56SNK2qlzArjZ7ARCfBAT\nBMZ24/0W6IwfnQckAfmLbB1lIB+/UecRqJRQSkdxAoGADJJVNKfRY0SrB72I1/lJ\nvuAb1uszOPyuiB0WY7OstBqsehUHRNAHUpPy2TtnI64ZVcvxrQ+IU1DjMmsEnThH\nxzONKonlqnuFKmrbsPWD29EoCPgq1WyUt0xV9LrGiOyuXdNN0KzTe4Ga+bEmu0i1\n5LZTN+3MYQmyCg0U9cpQEkM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyecto-0002@ee-tucho.iam.gserviceaccount.com",
+  "client_id": "102216416785525481053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyecto-0002%40ee-tucho.iam.gserviceaccount.com"
+}
