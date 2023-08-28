@@ -52,6 +52,8 @@ def new_map():
     m.add_child(folium.LatLngPopup())
     mapa = st_folium(m, height=350, width=700, key='mapat')
     name: str = st.text_input(label="Nombre del punto")
+    punto: tuple = st.text_input(label="Punto Elegido",
+        value=f"Latitud: {mapa['last_clicked']['lat']} Longitud: {mapa['last_clicked']['lng']}")
     location = st.button("Confirmar Punto")
     # Crear un mapa centrado en una ubicación determinada
     if (name.isalpha() or name.isalnum()) and location:

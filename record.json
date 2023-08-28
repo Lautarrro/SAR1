@@ -1,5 +1,11 @@
 {
   "sar": {
+    "-57.936, -34.9035": "Facultad",
+    "-57.936, -34.9034": "Facultad2",
+    "-57.9355, -34.9037": "faka2",
+    "-57.9372, -34.9032": "Facultad",
+    "-57.9374, -34.9033": "Auditorio",
+    "-57.9375, -34.9033": "Facultad"
   },
   "users": {
     "proyecto-0002@ee-tucho.iam.gserviceaccount.com": "key.json"
@@ -7,35 +13,11 @@
   "config": {
     "50y117": [
       "COPERNICUS/S1_GRD_FLOAT",
-      "2020-08-30",
+      "2019-08-30",
       "2021-06-30",
       "VV",
       "DESCENDING",
       20
-    ],
-    "dos": [
-      "COPERNICUS/S1_GRD_FLOAT",
-      "2023-04-29",
-      "2023-04-29",
-      "VV",
-      "DESCENDING",
-      10
-    ],
-    "con2": [
-      "COPERNICUS/S1_GRD_FLOAT",
-      "2023-04-29",
-      "2023-04-29",
-      "VV",
-      "DESCENDING",
-      10
-    ],
-    "tres": [
-      "COPERNICUS/S1_GRD_FLOAT",
-      "2023-04-29",
-      "2023-04-29",
-      "VV",
-      "DESCENDING",
-      10
     ]
   }
 }

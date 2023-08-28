@@ -11,7 +11,6 @@ import IPython.display as disp
 import rasterio
 import folium
 import files as fl
-import response
 
 
 
@@ -102,6 +101,7 @@ class Tools:
         values = {'one': {'params': {'min': -20, 'max': 0},
                           'title': 'Rgb Composite',
                           'rgb': rgb_images}}
+        print(f"1-{map_name}")
         self.folium_map(f"1-{map_name}", values)
         self.comparasion(f"1-{map_name}")
         self.second_layer(map_name)
@@ -124,7 +124,7 @@ class Tools:
                         }
                   }
         self.folium_map(f"2-{map_name}", values)
-
+        print(f"2-{map_name}")
         self.third_layer(map_name)
 
     def third_layer(self, map_name):
@@ -145,6 +145,7 @@ class Tools:
                                }
                       for i, code in enumerate(color_codes)
                       }
+            print(f"3-{map_name}")
             self.folium_map(f"3-{map_name}", values)
         except Exception as ex:
             raise ex
@@ -177,7 +178,7 @@ class Tools:
                   if (list(filter(lambda ids: ids['id'] == each, lista)))
                   }
         self.folium_map(f"4-{map_name}", values)
-
+        print(f"4-{map_name}")
     def comparasion(self, plot_name):
         k = self.long_im_list()
         hist = (Funk.omnibus(self.vv_list.slice(0, k))
